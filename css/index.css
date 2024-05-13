@@ -237,14 +237,14 @@ body{
 }
 
 #pass{
-    width: 90%;
+    width: 120%;
     height: 100%;
     background-color: transparent;
     border: none;
     outline: none;
     color: white;
     font-size: 2vw;
-    letter-spacing: 1vw;
+    letter-spacing: 0.5vw;
 }
 
 #login{
